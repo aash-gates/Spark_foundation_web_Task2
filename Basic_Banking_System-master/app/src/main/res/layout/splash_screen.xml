@@ -21,6 +21,7 @@
         android:layout_below="@id/logo"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
+        android:text="VICTORY BANK"
         android:textAllCaps="false"
         android:textColor="#64af44"
         android:textSize="28sp"
