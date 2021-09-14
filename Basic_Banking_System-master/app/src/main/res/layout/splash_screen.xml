@@ -58,4 +58,5 @@
             android:visibility="invisible"></TextView>
     </LinearLayout>
 
+    <EditText
 </RelativeLayout>
