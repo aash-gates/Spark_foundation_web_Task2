@@ -38,20 +38,20 @@
             android:id="@+id/designed"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Developed by "
+            android:text="Coded by"
+            android:textColor="#E66F6F"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textColor="#E66F6F"
             android:visibility="invisible"></TextView>
 
         <TextView
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Harshit"
+            android:text="Aashik J Krishnan"
+            android:textColor="#E66F6F"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:textColor="#E66F6F"
             android:visibility="invisible"></TextView>
     </LinearLayout>
 
