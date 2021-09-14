@@ -13,7 +13,6 @@
         android:layout_height="64dp"
         android:gravity="center_horizontal"
         android:padding="10dp"
-        android:textColor="#000"
         android:textSize="26sp"
         android:textStyle="bold"/>
 
