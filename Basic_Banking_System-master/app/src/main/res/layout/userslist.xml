@@ -19,12 +19,12 @@
             android:id="@+id/username"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="User Name"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:textColor="#E66F6F"
             android:layout_alignParentTop="true"
-            android:layout_marginLeft="10dp"></TextView>
+            android:layout_marginLeft="10dp"
+            android:text="User Name"
+            android:textColor="#5683ff"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -60,9 +60,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Rs."
+                android:textColor="#1ce8a9"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#E66F6F"></TextView>
+                android:textStyle="bold"></TextView>
 
             <TextView
                 android:id="@+id/balance"
