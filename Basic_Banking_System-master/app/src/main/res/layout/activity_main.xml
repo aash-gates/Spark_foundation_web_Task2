@@ -13,6 +13,7 @@
         android:layout_height="64dp"
         android:gravity="center_horizontal"
         android:padding="10dp"
+        android:text="Victory Bank – The one-customer Bank"
 
     <ImageView
         android:layout_width="wrap_content"
