@@ -16,6 +16,7 @@
         android:text="Victory Bank – The one-customer Bank"
         android:textColor="#00836c"
         android:textSize="16sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:layout_width="wrap_content"
