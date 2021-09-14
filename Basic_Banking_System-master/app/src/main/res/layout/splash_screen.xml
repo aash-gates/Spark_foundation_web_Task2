@@ -62,4 +62,5 @@
         android:id="@+id/editTextTextMultiLine"
         android:layout_width="155dp"
         android:layout_height="wrap_content"
+        android:ems="10"
 </RelativeLayout>
