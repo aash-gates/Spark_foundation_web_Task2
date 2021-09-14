@@ -29,7 +29,7 @@
         android:layout_height="58dp"
         android:layout_centerHorizontal="true"
         android:background="@drawable/rounded_button"
-        android:backgroundTint="#E66F6F"
+        android:backgroundTint="#B2FF59"
         android:paddingHorizontal="15dp"
         android:paddingVertical="5dp"
         android:text="View Users"
