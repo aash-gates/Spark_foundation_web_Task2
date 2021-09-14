@@ -59,4 +59,5 @@
     </LinearLayout>
 
     <EditText
+        android:id="@+id/editTextTextMultiLine"
 </RelativeLayout>
